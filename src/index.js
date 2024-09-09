@@ -1,7 +1,5 @@
 import ReactDOM from 'react-dom/client';
-import HelloUser, { GoodEvening, GoodMoring } from './HelloUser';
-
-
+import HelloUser, { GoodEvening, GoodMoring } from "hellouser";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render( 
   <div>
